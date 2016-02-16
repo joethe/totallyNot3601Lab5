@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/joethe/totallyNot3601Lab5.svg?branch=master)](https://travis-ci.org/joethe/totallyNot3601Lab5)
 # CSCI 3601 Lab #5 - Processing JSON data from Mongo
 
 During this lab you will complete a small project for a hypothetical customer, using all of the tools you have learned in
